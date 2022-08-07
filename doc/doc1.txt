@@ -1,0 +1,1 @@
+This is the doc file of Machine vision system project 
